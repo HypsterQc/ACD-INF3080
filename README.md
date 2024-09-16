@@ -1,11 +1,10 @@
-# Sigle // Cours : 
-INF3080 // Bases de données
+<p align="right">
+  <a href="./README_en.md">English Version</a>
+</p>
 
-## Date : 
-(Debut - Fin)
+# INF3080 // Bases de données
 
-## Description :
-Ecrire une courte description de ce dont j'ai appris du cours, ce dont j'en retir.
+Dans le cours INF3080, j'apprends les concepts fondamentaux des bases de données relationnelles. Le programme couvre les systèmes de gestion de bases de données (SGBD), le modèle entité-association, le modèle relationnel, l'algèbre relationnelle, et le langage SQL. J'explore également la modélisation, la conception, et l'optimisation des requêtes, ainsi que la sécurité des bases de données et les transactions. 
 
 ## Devoir Pratique
 [Devoir Pratique 1 - titre](URL "titre facultatif")
@@ -13,3 +12,7 @@ Ecrire une courte description de ce dont j'ai appris du cours, ce dont j'en reti
 [Devoir Pratique 2 - titre](URL "titre facultatif")
 
 [Devoir Pratique 3 - titre](URL "titre facultatif")
+
+<p align="right">
+  <a href="./README_en.md">English Version</a>
+</p>
